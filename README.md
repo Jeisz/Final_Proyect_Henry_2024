@@ -90,3 +90,26 @@ Descripción: Recomienda 5 juegos similares al ingresado.
 8. recomendacion_usuario
 Parámetro: ID de un usuario
 Descripción: Sugiere 5 juegos para ese usuario, considerando similitudes entre usuarios.
+
+Recopilación de datos:
+Primero, necesitamos recopilar datos sobre los usuarios y sus preferencias de juegos. Esto puede incluir información como géneros de juegos favoritos, horas de juego, reseñas, etc.
+Preprocesamiento de datos:
+Limpieza y transformación de los datos recopilados. Esto implica eliminar valores atípicos, manejar datos faltantes y normalizar los datos para que estén en una escala similar.
+Creación de perfiles de usuario:
+Creamos perfiles de usuario basados en los datos recopilados. Estos perfiles pueden incluir características como género, edad, preferencias de género de juego, etc.
+Selección de características relevantes:
+Identificamos las características más relevantes para el sistema de recomendación. Por ejemplo, género de juego, horas de juego, etc.
+Modelado de similitud:
+Utilizamos algoritmos de similitud (como el filtrado colaborativo) para encontrar usuarios similares. Esto se basa en la idea de que usuarios con preferencias similares probablemente disfrutarán de juegos similares.
+Generación de recomendaciones:
+Una vez que tenemos usuarios similares, podemos recomendar juegos que otros usuarios con gustos similares han disfrutado. Esto se puede hacer mediante técnicas como el filtrado basado en contenido o el filtrado colaborativo.
+Evaluación y ajuste:
+Evaluamos la calidad de nuestras recomendaciones utilizando métricas como precisión, cobertura y F1-score. Si es necesario, ajustamos nuestro modelo para mejorar las recomendaciones.
+
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=5PHgCvXsCeQ">
+    <img src="https://img.youtube.com/vi/5PHgCvXsCeQ/0.jpg" alt="Miniatura del video">
+  </a>
+</p>
+
