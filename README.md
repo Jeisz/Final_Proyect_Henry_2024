@@ -113,3 +113,8 @@ Evaluamos la calidad de nuestras recomendaciones utilizando métricas como preci
   </a>
 </p>
 Url Render: https://proyecto-final-render-2024.onrender.com/docs
+
+<p align="center">
+  <img src="https://github.com/Jeisz/Final_Proyect_Henry_2024/assets/128953226/5510e440-fb41-487d-9e3f-4e704c20cfc0" alt="Miniatura del video">
+</p>
+
